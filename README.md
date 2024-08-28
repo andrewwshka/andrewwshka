@@ -9,12 +9,14 @@ As a validator, my primary objective is to validate transactions and secure the 
 - [Lava](https://lava.explorers.guru/validator/lava@valoper1kqf5y6zfps9u70ahfmkyzar5yqegpf3ljatc94) 🌋
 - [BabylonChain](https://github.com/babylonchain/networks/pull/292) 🌌
 - [Nillion](https://testnet.nillion.explorers.guru/validator/nillionvaloper1gaz0utvcvv2fsm2gx6qep8pl9fygnz8av6tw42) 🌟
-
 - [Side](https://testnet.side.explorers.guru/validator/sidevaloper1h6p8n40ufv27qjc0pduuceeq40v4pjeq0nek44) 🌠
 - [Anoma Namada](https://github.com/anoma/namada-testnets/pull/2974) 🌿
+- [Citrea](https://github.com/andrewwshka/citrea)🧫
+- [Fleek](https://fleek.network/)💡
+- [Space and Time](https://www.spaceandtime.io/)⏰
 - [Dymension](https://devnet.dymension.xyz/rollapp/andrewnode_8735266-1/metrics) 🔷
-
 - [Haqq](https://testnet.ping.pub/haqq/staking/haqqvaloper1dm8lhzurmt0psluy8n6xmy4d0qyf6tl9yrmlx0) 🌟
 - [Juneo](https://genesis.mcnscan.io/chain/uiQGN1oYpgSA8cSUKCDs72XWKYaQVDB3rCJvwsSFFdk5Hdhh9) 🌞
+
 
 Also, you can check out my [0g Guide](https://medium.com/@andrewshka_noder/0g-testnet-guide-b0d0c1410414) 📚
