@@ -17,6 +17,8 @@ As a validator, my primary objective is to validate transactions and secure the 
 - [Dymension](https://devnet.dymension.xyz/rollapp/andrewnode_8735266-1/metrics) 🔷
 - [Haqq](https://testnet.ping.pub/haqq/staking/haqqvaloper1dm8lhzurmt0psluy8n6xmy4d0qyf6tl9yrmlx0) 🌟
 - [Juneo](https://genesis.mcnscan.io/chain/uiQGN1oYpgSA8cSUKCDs72XWKYaQVDB3rCJvwsSFFdk5Hdhh9) 🌞
+- [Nibiru](https://andrew-node.notion.site/Nibiru-149646c0245980f89c9af52f5913e3a1) 🤙
+- [Dydx](https://andrew-node.notion.site/Dydx-149646c02459800e8288df4cf5f03543) 🐧
 
 
 Also, you can check out my [0g Guide](https://medium.com/@andrewshka_noder/0g-testnet-guide-b0d0c1410414) 📚
